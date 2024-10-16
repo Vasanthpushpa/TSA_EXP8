@@ -1,6 +1,6 @@
 ### Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Developed by : Vasanth P
-# Reg no : 212222240113
+### Reg no : 212222240113
 ### Date: 
 
 
